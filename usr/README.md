@@ -1,6 +1,6 @@
-# couldai_user_app
+# Scratch Earn
 
-A new Flutter project.
+A mobile-friendly earning app.
 
 ## Getting Started
 
